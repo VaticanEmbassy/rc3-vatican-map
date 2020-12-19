@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":114,
  "infinite":false,
  "layers":[
@@ -71,7 +78,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":".\/tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/cert_safety.png",
+         "image":"tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -84,7 +91,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":".\/tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/leipzig_messe.png",
+         "image":"tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/leipzig_messe.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -97,7 +104,7 @@
         {
          "columns":16,
          "firstgid":2049,
-         "image":".\/tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/rc3.png",
+         "image":"tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/rc3.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -110,7 +117,7 @@
         {
          "columns":2,
          "firstgid":3073,
-         "image":".\/tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/misc_set.png",
+         "image":"tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/misc_set.png",
          "imageheight":832,
          "imagewidth":64,
          "margin":0,
@@ -123,7 +130,7 @@
         {
          "columns":16,
          "firstgid":3125,
-         "image":".\/tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/c3_deko.png",
+         "image":"tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/c3_deko.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -136,7 +143,7 @@
         {
          "columns":8,
          "firstgid":4149,
-         "image":".\/tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/floortileset.png",
+         "image":"tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -149,7 +156,7 @@
         {
          "columns":16,
          "firstgid":4213,
-         "image":".\/tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/food_and_drinks.png",
+         "image":"tiles\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -162,7 +169,7 @@
         {
          "columns":16,
          "firstgid":5237,
-         "image":".\/tiles\/tiles.rc3.world\/deco\/seidenstrasse.png",
+         "image":"tiles\/tiles.rc3.world\/deco\/seidenstrasse.png",
          "imageheight":192,
          "imagewidth":512,
          "margin":0,
@@ -175,7 +182,7 @@
         {
          "columns":2,
          "firstgid":5333,
-         "image":".\/tiles\/tiles.rc3.world\/structures\/worldExit.png",
+         "image":"tiles\/tiles.rc3.world\/structures\/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -188,7 +195,7 @@
         {
          "columns":12,
          "firstgid":5337,
-         "image":".\/tiles\/tiles.rc3.world\/structures\/fairydust.png",
+         "image":"tiles\/tiles.rc3.world\/structures\/fairydust.png",
          "imageheight":576,
          "imagewidth":384,
          "margin":0,
@@ -201,7 +208,7 @@
         {
          "columns":60,
          "firstgid":5553,
-         "image":".\/tiles\/tileset_ver_3__free___by_magiscarf_dbf3bkq.png",
+         "image":"tiles\/tileset_ver_3__free___by_magiscarf_dbf3bkq.png",
          "imageheight":3360,
          "imagewidth":1920,
          "margin":0,
@@ -214,7 +221,7 @@
         {
          "columns":8,
          "firstgid":11853,
-         "image":".\/tiles\/yVxzrU9.png",
+         "image":"tiles\/yVxzrU9.png",
          "imageheight":320,
          "imagewidth":256,
          "margin":0,
@@ -227,7 +234,7 @@
         {
          "columns":8,
          "firstgid":11933,
-         "image":".\/tiles\/grasslands__wip__by_neocyania_d86kpoj.png",
+         "image":"tiles\/grasslands__wip__by_neocyania_d86kpoj.png",
          "imageheight":160,
          "imagewidth":256,
          "margin":0,
@@ -240,7 +247,7 @@
         {
          "columns":52,
          "firstgid":11973,
-         "image":".\/tiles\/desert32x32.png",
+         "image":"tiles\/desert32x32.png",
          "imageheight":1408,
          "imagewidth":1664,
          "margin":0,
