@@ -32,12 +32,12 @@
          "height":177,
          "id":25,
          "name":"exitUrl to SP Square",
-         "opacity":0.09,
+         "opacity":0.55,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"main.json#from_catacombs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -50,7 +50,7 @@
          "height":177,
          "id":26,
          "name":"exitUrl",
-         "opacity":0.23,
+         "opacity":0.91,
          "properties":[
                 {
                  "name":"exitUrl",
