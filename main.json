@@ -1405,15 +1405,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 1.0 Universal"
-                        }]
-                }, 
-                {
                  "id":3,
                  "properties":[
                         {
@@ -1595,15 +1586,6 @@
                          "tileid":0
                         }],
                  "id":0
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -2023,13 +2005,7 @@
                          "duration":100,
                          "tileid":47
                         }],
-                 "id":47,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
+                 "id":47
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -2162,13 +2138,7 @@
                          "duration":100,
                          "tileid":30
                         }],
-                 "id":24,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
+                 "id":24
                 }, 
                 {
                  "animation":[
@@ -2188,13 +2158,7 @@
                          "duration":100,
                          "tileid":35
                         }],
-                 "id":32,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
+                 "id":32
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -2239,13 +2203,7 @@
                          "duration":100,
                          "tileid":201
                         }],
-                 "id":189,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
+                 "id":189
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -2314,13 +2272,7 @@
                          "duration":100,
                          "tileid":109
                         }],
-                 "id":99,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
+                 "id":99
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -2333,19 +2285,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"Archaeologist Sprite Sheet",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
+                }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
-                }, 
                 {
                  "animation":[
                         {
@@ -2400,13 +2349,7 @@
                          "duration":100,
                          "tileid":59
                         }],
-                 "id":65,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
+                 "id":65
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -2471,13 +2414,7 @@
                          "duration":100,
                          "tileid":265
                         }],
-                 "id":256,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) "
-                        }]
+                 "id":256
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
