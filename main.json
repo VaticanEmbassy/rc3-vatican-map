@@ -161,7 +161,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_vatican-embassy"
                 }],
          "type":"tilelayer",
          "visible":true,
